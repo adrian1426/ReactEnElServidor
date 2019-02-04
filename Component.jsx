@@ -9,7 +9,7 @@ class App extends React.Component{
         return(
             // React.createElement('h1',null,'Hola mundo')
             <div>
-                <h1>Hola mundo con react</h1>
+                <h1>Hola mundo con react y GIT</h1>
                 <p>parrafos</p>
                 <button onClick={this.handeclick.bind(this)}>boton</button>
             </div>
